@@ -9,3 +9,9 @@ set -euo pipefail
 # 1 It looked delicious.
 # 2 I was tempted to take a bite of it.
 # 3 But this seemed like a bad idea...
+
+# feedback:
+# line 5 needs a 'in' or 'from'
+# the -n flag tabs the lines in, so maybe minimally add one tab above
+
+cat -n ../helper-files/helper-3.txt

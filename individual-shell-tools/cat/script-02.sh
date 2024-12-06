@@ -11,3 +11,10 @@ set -euo pipefail
 # It looked delicious.
 # I was tempted to take a bite of it.
 # But this seemed like a bad idea...
+
+cat ../helper-files/*.txt
+
+# feedback:
+# it jumps immediately into https://sdc.codeyourfuture.io/tools/sprints/1/prep/#cat
+# without any mention of man or where to find out how to do this, and to someone who doesnt know what man is, the next link man pages wouldn't make sense to click on
+# so i logically reached cat and then wondered as a new learner where 'more help' was to be able to do what is asked here - an ordering thing in the prep maybe?
